@@ -30,13 +30,13 @@ Don't worry, it's easier than assembling IKEA furniture! 🔧
 
 ```bash
 # Clone this bad boy
-git clone https://github.com/sh13y/online-text-pad.git
+git clone https://github.com/sh13y/online-textpad.git
 
 # Enter the matrix
-cd online-text-pad
+cd online-textpad
 
 # Install the goodies
-npm install express
+npm install
 ```
 
 ## Start the Server
