@@ -66,7 +66,7 @@ Fork, code, and send us a pull request. We promise to read it while sipping coff
 
 ## License
 
-MIT License - Because sharing is caring! 🤗
+WTFPL License - Because who doesn't love a good free-for-all? 🎉
 
 ## Acknowledgments
 
